@@ -1,4 +1,4 @@
-### Mode Randomizer
+# Mode Randomizer
 
 A very simple Python script that randomizes all possible
 (Mode, Key, String-Crossing) triplets for the 4-string bass guitar
@@ -21,11 +21,11 @@ for a position switch on any string, since the existence of one more string
 covers the notes that we would need to switch for on the 4-string. A 5/6/7...
 string player might be interested in modifying the script so that it calls the method 
 method `get_random_mode_and_key()` instead of the more general `get_random_mode_key_and_string()`. 
-### Licensing
+## Licensing
 
 GPL3. Refer to attached LICENSE file.
 
-### Contributing / Comments
+## Contributing / Comments
 
 Do a pull request on the repo, or [contact me over e-mail](mailto:jason.filippou@gmail.com).
 
