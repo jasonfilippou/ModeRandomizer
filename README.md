@@ -1,4 +1,4 @@
-###Mode Randomizer
+### Mode Randomizer
 
 A very simple Python script that randomizes all possible
 (Mode, Key, String-Crossing) triplets for the 4-string bass guitar
